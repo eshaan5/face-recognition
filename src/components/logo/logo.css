@@ -1,0 +1,10 @@
+.logo__container {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 0;
+}
+
+.Tilt {
+    background: linear-gradient(90deg, rgba(58, 155, 180, 1) 0%, rgba(253, 246, 29, 1) 47%, rgba(69, 252, 117, 1) 100%);
+    margin-left: 10px;
+}

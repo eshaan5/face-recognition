@@ -1,10 +1,11 @@
 import React from "react";
+import './navigation.css'
 
 const Navigation = () => {
   return (
     <div>
       <nav>
-        <p>Sign Out</p>
+        <p className="f3 link dim black underline pa3 pointer">Sign Out</p>
       </nav>
     </div>
   );
