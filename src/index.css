@@ -7,6 +7,6 @@ body {
   background: linear-gradient(90deg, rgba(58, 155, 180, 1) 0%, rgba(253, 246, 29, 1) 47%, rgba(69, 252, 117, 1) 100%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+button {
+  cursor: pointer;
 }

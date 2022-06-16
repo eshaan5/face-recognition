@@ -1,7 +1,7 @@
 import React from 'react'
 import Tilt from 'react-parallax-tilt';
 import './logo.css'
-import scan from './scan.png'
+import scan from './scan.jpg'
 
 const Logo = () => {
   return (
